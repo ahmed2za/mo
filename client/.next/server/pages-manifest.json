@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/business": "pages/business.js",
+  "/auth/signin": "pages/auth/signin.js",
+  "/categories/[id]": "pages/categories/[id].js",
+  "/companies/[id]": "pages/companies/[id].js",
+  "/company/[id]": "pages/company/[id].js"
+}
